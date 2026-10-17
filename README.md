@@ -31,10 +31,6 @@ Bu projenin amacı, kullanıcıların yazdığı metinleri yapay zekâ desteğiy
 ### Veritabanı
 - SQLite
 
-## 🎬 Proje Tanıtımı
-
-[▶️ Proje Tanıtım Videosunu İzle](https://drive.google.com/file/d/1F6LZDNoZpASo3KjdMYzDykEkDzdrUArk/view?usp=sharing)
-
 ## 👩‍💻 Geliştirici
 
 Bu proje bireysel olarak geliştirilmiştir.
