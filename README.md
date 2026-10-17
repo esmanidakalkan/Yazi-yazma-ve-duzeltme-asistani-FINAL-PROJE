@@ -1,32 +1,48 @@
-
 # ✍️ Yazı Yazma ve Düzeltme Asistanı
 
-[▶️ Proje Tanıtım Videosunu İzlemek İçin Buraya Tıklayın](https://drive.google.com/file/d/1F6LZDNoZpASo3KjdMYzDykEkDzdrUArk/view?usp=sharing)
-
-Bu proje, metinlerinizi yapay zeka gücüyle analiz eden, imla hatalarını düzelten ve profesyonel bir üsluba kavuşturan web tabanlı bir yardımcıdır.
+Yapay zekâ destekli metin düzeltme ve üslup dönüştürme özellikleri sunan web tabanlı bir uygulama.
 
 ## 🎯 Projenin Amacı
-Kullanıcıların yazdığı metinleri, Google Gemini API desteğiyle daha kurumsal, akıcı ve hatasız hale getirmek; metin yazma sürecini hızlandırmak ve kaliteyi artırmaktır.
+
+Bu projenin amacı, kullanıcıların yazdığı metinleri yapay zekâ desteğiyle iyileştirmelerine, yazım ve anlatım hatalarını azaltmalarına ve farklı iletişim tarzlarına uygun metinler oluşturmalarına yardımcı olmaktır.
 
 ## ✨ Temel Özellikler
-* **🤖 Yapay Zeka Düzeltme:** Gemini 1.5 modeli ile metinlerdeki gramer ve anlatım bozukluklarını anında giderir.
-* **📝 Profesyonel Üslup:** Metinleri resmi, akademik veya günlük dil tonuna dönüştürür.
-* **📊 Analiz Paneli:** Düzeltilen metinlerin geçmişini ve istatistiklerini tutar.
-* **💻 Modern Arayüz:** Kullanıcı dostu, hızlı ve responsive (mobil uyumlu) tasarım.
 
-## 🛠 Kullanılan Teknolojiler
-* **Backend:** Python, Flask, SQLAlchemy
-* **Yapay Zeka:** Google Generative AI (Gemini API)
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Veritabanı:** SQLite
+- 🤖 **Yapay Zekâ Destekli Metin Düzeltme:** Metinlerin dil ve anlatım açısından iyileştirilmesine yardımcı olur.
+- 📝 **Üslup Dönüştürme:** Metinlerin farklı iletişim tarzlarına uyarlanmasını destekler.
+- 📊 **Metin Geçmişi ve İstatistikler:** Uygulama kapsamında metin geçmişi ve istatistik özellikleri sunar.
+- 📱 **Kullanıcı Dostu Arayüz:** Web tabanlı ve farklı ekran boyutlarına uyumlu bir arayüz hedefler.
 
----
+## 🛠️ Kullanılan Teknolojiler
 
-## 🚀 Manuel Kurulum Adımları
-Projenin bilgisayarınızda çalışması için şu adımları takip edin:
+### Backend
+- Python
+- Flask
+- SQLAlchemy
 
-1. **Sanal Ortamı Oluşturun:**
-   ```bash
-   cd backend
-   python -m venv venv
-   venv\Scripts\activate
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Yapay Zekâ
+- Google Gemini API
+
+### Veritabanı
+- SQLite
+
+## 🎬 Proje Tanıtımı
+
+[▶️ Proje Tanıtım Videosunu İzle](https://drive.google.com/file/d/1F6LZDNoZpASo3KjdMYzDykEkDzdrUArk/view?usp=sharing)
+
+## 👩‍💻 Geliştirici
+
+Bu proje bireysel olarak geliştirilmiştir.
+
+**Geliştirici:** Esma Nida Kalkan
+
+**Eğitim:** Gazi Üniversitesi – Bilişim Güvenliği Teknolojisi
+
+## 📌 Not
+
+Bu proje eğitim ve kişisel gelişim amacıyla hazırlanmıştır.
